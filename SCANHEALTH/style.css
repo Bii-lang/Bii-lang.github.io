@@ -253,8 +253,7 @@ body{
 }
 /* Topbar */
 .header .topbar{
-	/*background-color:#fff;*/
-	background-color:#54d11a;
+	background-color:#fff;
 	border-bottom:1px solid #eee;
 }
 .header .topbar{
